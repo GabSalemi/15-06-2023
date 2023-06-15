@@ -1,0 +1,14 @@
+#daily {
+    border: 2px solid #91a9c8;
+    border-radius: 12px;
+}
+
+#weekly {
+    border: 2px solid #bb93d2;
+    border-radius: 12px;
+}
+
+#monthly {
+    border: 2px solid #ffa07a;
+    border-radius: 12px;
+}
